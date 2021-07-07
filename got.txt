@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Tywin
 Cersei
 Jaime
 Tyrion
+=======
+Jon Snow
+Ned Stark
+Melissandre
+>>>>>>> b904c9172593f6fa09c71d6c4806c34b6cf39bb7
